@@ -1,0 +1,13 @@
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\bin\Debug\netcoreapp3.1\OngConvertDolarToReal.exe
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\bin\Debug\netcoreapp3.1\OngConvertDolarToReal.deps.json
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\bin\Debug\netcoreapp3.1\OngConvertDolarToReal.runtimeconfig.json
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\bin\Debug\netcoreapp3.1\OngConvertDolarToReal.runtimeconfig.dev.json
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\bin\Debug\netcoreapp3.1\OngConvertDolarToReal.dll
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\bin\Debug\netcoreapp3.1\OngConvertDolarToReal.pdb
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\obj\Debug\netcoreapp3.1\OngConvertDolarToReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\obj\Debug\netcoreapp3.1\OngConvertDolarToReal.AssemblyInfoInputs.cache
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\obj\Debug\netcoreapp3.1\OngConvertDolarToReal.AssemblyInfo.cs
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\obj\Debug\netcoreapp3.1\OngConvertDolarToReal.csproj.CoreCompileInputs.cache
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\obj\Debug\netcoreapp3.1\OngConvertDolarToReal.dll
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\obj\Debug\netcoreapp3.1\OngConvertDolarToReal.pdb
+C:\Imersao_Logica\OngConvertDolarToReal\OngConvertDolarToReal\obj\Debug\netcoreapp3.1\OngConvertDolarToReal.genruntimeconfig.cache
